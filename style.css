@@ -244,7 +244,7 @@ h3 {
 }
 
 .nav-open .hamburger::before {
-    transform: rotate(90deg) translateX(-6px);
+    transform: rotate(90deg) translateX(-8px);
 }
 
 .nav-open .hamburger::after {
